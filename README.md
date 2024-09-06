@@ -28,9 +28,11 @@ Tecnologias usadas:
 * CSS: A parte que deixa tudo bonitinho e organizado.
 
 Em resumo:
+
 Essa função é como um superpoder para o seu site! Ela torna a busca por informações muito mais fácil e divertida.
 
 Quer saber mais?
+
 Se você quiser entender melhor como cada parte do código funciona, é só dar uma olhada no código fonte. Mas se tiver alguma dúvida, pode me chamar!
 
 Dicas:
