@@ -7,7 +7,8 @@ Você digita o nome de uma cidade, uma palavra-chave sobre um lugar ou até mesm
 
 É como ter um guia turístico personalizado dentro do seu computador!
 
-Como funciona a mágica?
+
+- Como funciona a mágica?
 
 1 - Você faz uma pesquisa: Digita o que você quer encontrar no campo de pesquisa.
 
@@ -19,7 +20,8 @@ Como funciona a mágica?
 
 5 - Nada encontrado? Se não encontrar nada, ela te avisa que a sua busca não teve sucesso.
 
-Tecnologias usadas:
+
+- Tecnologias usadas:
 
 * JavaScript: A linguagem que faz toda a mágica acontecer.
 * HTML: A estrutura básica da página onde os resultados são exibidos.
